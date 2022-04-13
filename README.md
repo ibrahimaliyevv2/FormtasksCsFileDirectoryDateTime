@@ -40,3 +40,8 @@ Menu
 3. Get status by id
 4. Filter status by date
 0. Quit
+
+
+Task-2:
+Bugünün tarixini aşağıdakı formatda çapa verin:
+Today is 21 of September of 2020. It's 08:20:12
