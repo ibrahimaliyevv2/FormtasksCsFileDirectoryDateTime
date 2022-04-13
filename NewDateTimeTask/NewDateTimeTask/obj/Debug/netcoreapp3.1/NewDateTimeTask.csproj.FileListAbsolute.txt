@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\bin\Debug\netcoreapp3.1\NewDateTimeTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsFileDirectoryDateTime\NewDateTimeTask\NewDateTimeTask\obj\Debug\netcoreapp3.1\NewDateTimeTask.genruntimeconfig.cache
